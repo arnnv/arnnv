@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍀I'm currently learning Java<br>💬Ask me about tech<br>⚡Fun Fact: I'm a massive weeb
+🍀I'm currently learning Java<br>💬Ask me about tech<br>
 
 
 ## 🌐 Socials:
