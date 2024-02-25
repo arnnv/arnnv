@@ -5,7 +5,7 @@
 
 - 📫 Reach me at **arnnv.g@gmail.com**
 
-- ⚡ Fun fact: **I'm also a gamer and anime enjoyer**
+- ⚡ Fun fact: **I'm also a gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
