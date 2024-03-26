@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Gupta</h1>
 <h3 align="center">An aspiring web developer & data scientist</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Express.js** & **Machine Learning**
 
 - 📫 Reach me at **arnnv.g@gmail.com**
 
