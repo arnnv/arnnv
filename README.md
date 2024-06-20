@@ -1,14 +1,17 @@
 # 💫 About Me:
 
-🌱 I’m currently learning TensorFlow<br>💬 Ask me about machine learning<br>📫 Reach me at: arnnv.g@gmail.com<br>📄 My resume: https://bit.ly/4dUSnFe
+🌱 I’m currently learning TensorFlow  
+💬 Ask me about machine learning  
+📫 Reach me at: arnnv.g@gmail.com  
+📄 My resume: https://bit.ly/4dUSnFe  
 
 ## 🌐 Socials:
 
 <a href="https://discord.com/users/1118537087591915552" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
-</a>
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a><br>
 <a href="https://linkedin.com/in/arnnv" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 # 💻 Tech Stack:
