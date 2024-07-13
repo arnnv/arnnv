@@ -3,7 +3,7 @@
 🌱 I’m currently learning TensorFlow  
 💬 Ask me about machine learning  
 📫 Reach me at: arnnv.g@gmail.com  
-📄 My resume: https://bit.ly/4dUSnFe  
+📄 My resume: https://bit.ly/arnav-gupta-resume
 
 ## 🌐 Socials:
 
